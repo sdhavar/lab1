@@ -1,3 +1,9 @@
-console.log("Hola mundo")
+const cantidad = 5
 
-console.log("Hola mundo")
+//Variable let para iterar varias veces
+let i = 0
+let primoTemp = 1
+
+while (i < cantidad){
+    
+}
