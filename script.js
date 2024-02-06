@@ -32,6 +32,4 @@ while (i < cantidad){
     primoTemp++
 }
 
-
-
-console.log(esPrimo(2))
+console.log("Console log del master")
